@@ -19,7 +19,7 @@
 - text1
 - it has some different
 
-#Men are bastard!!!
+#Men and Women conflict wich each other all the time!!
 
 
 >this is a quote
