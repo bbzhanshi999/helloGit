@@ -34,6 +34,6 @@
 ####*code*
 `public static void main(String[] args){
     String markdown="hello!markdown";
-    system.out.println(maekdown);
+    system.out.println(markdown);
 }`
 
