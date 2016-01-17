@@ -7,9 +7,20 @@
 * 3
 
 ####Orderd list
-1. 1
+1. 1 
 2. 2
 3. 3
+
+
+### another list
+
+1.try"-"
+
+- text1
+- it has some different
+
+
+
 
 >this is a quote
 
@@ -25,6 +36,4 @@
     String markdown="hello!markdown";
     system.out.println(maekdown);
 }`
-
-
 
